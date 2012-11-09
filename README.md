@@ -10,7 +10,7 @@
 
 ### Using Git
 
-Install [Ubuntu Mono Font][], then [Sublime Text 2][], open up ST2, enter license, install [Package Control][], quit ST2.
+Install [Ubuntu Mono][] font, then [Sublime Text 2][], open up ST2, enter license, install [Package Control][], quit ST2.
 
 Go to your Sublime Text 2 Packages directory:
 
@@ -23,6 +23,10 @@ Remove default `User` folder:
 Clone the settings repository using the command below:
 
     git clone https://github.com/lars-feyerabend/st2-user-settings.git "User"
+
+Or, if you are me:
+
+    git clone git@github.com:lars-feyerabend/st2-user-settings.git "User"
 
 Done.
 
