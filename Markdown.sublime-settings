@@ -1,0 +1,11 @@
+{
+  "font_size": 20,
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+  "rulers": [],
+  "spell_check": true,
+  "wrap_width": 80,
+  "word_wrap": true,
+  "draw_centered": true,
+  "highlight_line": false,
+  "gutter": false
+}

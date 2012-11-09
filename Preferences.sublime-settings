@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
 	"create_window_at_startup": true,
 	"detect_slow_plugins": false,
 	"drag_text": false,
