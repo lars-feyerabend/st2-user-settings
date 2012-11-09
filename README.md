@@ -1,14 +1,14 @@
 # My Sublime Text 2 Settings
 
-# Requirements:
+## Requirements:
 
 - [Sublime Text 2](http://www.sublimetext.com/)
 - [Package Control](http://wbond.net/sublime_packages/package_control)
 - [Ubuntu Mono Font](http://font.ubuntu.com/)
 
-# Installation
+## Installation
 
-## Using Git
+### Using Git
 
 Go to your Sublime Text 2 Packages directory:
 
@@ -18,11 +18,11 @@ Clone the settings repository using the command below:
 
     git clone https://github.com/lars-feyerabend/st2-user-settings.git "User"
 
-# Preferences Overview
+## Preferences Overview
 
 I have to do this here, since ST2 keeps removing comments from the Settings file.
 
-## Appearance
+### Appearance
 
     "theme": "Soda Light.sublime-theme",
     "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
@@ -55,7 +55,7 @@ have to edit a file remotely on a terminal.
 
 
 
-## Behavior
+### Behavior
 
     "create_window_at_startup": true
 
@@ -75,7 +75,7 @@ Sounds reasonable.
 Prevent accidental closing.
 
 
-## File Handling
+### File Handling
 
     "tab_size": 2
 
