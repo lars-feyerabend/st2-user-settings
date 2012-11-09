@@ -29,7 +29,7 @@ Or, if you are me:
     git clone git@github.com:lars-feyerabend/st2-user-settings.git "User"
 
 Done. Now open ST2 again and wait for Package Control to download the configured 
-packages. You might want to check the console (`Ctrl-\``) for output.
+packages. You might want to check the console (Ctrl-`) for output.
 
 ## Preferences Overview
 
