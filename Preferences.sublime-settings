@@ -1,7 +1,7 @@
 {
-	"detect_slow_plugins": false,
 	"color_scheme": "Tomorrow-Night.tmTheme",
 	"create_window_at_startup": true,
+	"detect_slow_plugins": false,
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
