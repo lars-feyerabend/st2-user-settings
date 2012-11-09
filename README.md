@@ -2,21 +2,29 @@
 
 ## Requirements:
 
-- [Sublime Text 2](http://www.sublimetext.com/)
-- [Package Control](http://wbond.net/sublime_packages/package_control)
-- [Ubuntu Mono Font](http://font.ubuntu.com/)
+- [Sublime Text 2][]
+- [Package Control][]
+- [Ubuntu Mono Font][]
 
 ## Installation
 
 ### Using Git
 
+Install [Ubuntu Mono Font][], then [Sublime Text 2][], open up ST2, enter license, install [Package Control][], quit ST2.
+
 Go to your Sublime Text 2 Packages directory:
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 
+Remove default `User` folder:
+
+    rm -rf User
+
 Clone the settings repository using the command below:
 
     git clone https://github.com/lars-feyerabend/st2-user-settings.git "User"
+
+Done.
 
 ## Preferences Overview
 
@@ -101,6 +109,8 @@ Ugh, I *hate* trailing white space.
 
 Go home, Vim. This is 2012.
 
+[Sublime Text 2]: http://www.sublimetext.com/
+[Package Control]: http://wbond.net/sublime_packages/package_control
 [Soda Light]: https://github.com/buymeasoda/soda-theme
 [Consolas]: http://www.microsoft.com/en-us/download/details.aspx?id=17879
 [Tomorrow Night]: https://github.com/chriskempson/tomorrow-theme
