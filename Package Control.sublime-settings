@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": 1352289207,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Can I Use",
+		"CSS Snippets",
+		"Gist",
+		"Git",
+		"Goto Documentation",
+		"Http Requester",
+		"jQuery Snippets pack",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+	]
+}

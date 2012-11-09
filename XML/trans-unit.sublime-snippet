@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<trans-unit>
+  <source>$1</source>
+  <target>$2</target>
+</trans-unit>
+$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>tu</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>
