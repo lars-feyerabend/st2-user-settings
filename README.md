@@ -4,7 +4,7 @@
 
 - [Sublime Text 2][]
 - [Package Control][]
-- [Ubuntu Mono Font][]
+- [Ubuntu Mono][] font
 
 ## Installation
 
